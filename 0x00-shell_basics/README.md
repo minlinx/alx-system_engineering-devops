@@ -1,2 +1,2 @@
-The first  script, when executed, shows the absolute path nameof the current working directory.
+The first  script, when executed, shows the absolute path nameof the current working directory...
 
