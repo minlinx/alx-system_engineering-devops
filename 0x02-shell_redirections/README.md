@@ -20,3 +20,4 @@
               changed size after N (default 5) iterations to  see  if  it
               has  been  unlinked  or  renamed (this is the usual case of
               rotated log files); with inotify,  this  option  is  rarely
+              rotated log files); with inotify,  this  option  is  rarely
